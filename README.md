@@ -22,3 +22,4 @@
 
 Проект построен согласно диаграмме классов.
 
+![Task8](https://user-images.githubusercontent.com/80450495/111903279-88ae2e80-8a52-11eb-878f-222d6a5f9fd2.png)
