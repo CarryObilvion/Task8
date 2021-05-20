@@ -26,4 +26,5 @@
 
 Скриншот рабочего окна приложения:
 
-![image](https://user-images.githubusercontent.com/80450495/114279189-1bcbfa00-9a3c-11eb-80b5-1f74cdca90c3.png)
+![8 таск](https://user-images.githubusercontent.com/80450495/119016466-a809ff00-b9a2-11eb-8be8-11a507d2a31d.png)
+
