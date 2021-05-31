@@ -22,10 +22,16 @@
 
 Проект построен согласно диаграмме классов.
 
-![Task8](https://user-images.githubusercontent.com/80450495/111903279-88ae2e80-8a52-11eb-878f-222d6a5f9fd2.png)
+![image](https://user-images.githubusercontent.com/80450495/120190209-f334d500-c220-11eb-8b75-ff6521a05b98.png)
 
 Скриншот рабочего окна приложения:
 
-![8 таск](https://user-images.githubusercontent.com/80450495/119028772-8748a600-b9b0-11eb-80aa-963d29e5aaf3.png)
+![image](https://user-images.githubusercontent.com/80450495/120190353-2aa38180-c221-11eb-9d62-34ef723b02d8.png)
+![image](https://user-images.githubusercontent.com/80450495/120190376-3131f900-c221-11eb-9f19-82cb4516807b.png)
+![image](https://user-images.githubusercontent.com/80450495/120190396-368f4380-c221-11eb-9310-59090728e04d.png)
+![image](https://user-images.githubusercontent.com/80450495/120190429-4018ab80-c221-11eb-9365-1b30057a9a7a.png)
+кнопка удалить, удаляет первые добавленные элекменты.
+![image](https://user-images.githubusercontent.com/80450495/120190450-4870e680-c221-11eb-898d-9fd892d27f4f.png)
+
 
 
