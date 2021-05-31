@@ -28,7 +28,6 @@
 
 ![image](https://user-images.githubusercontent.com/80450495/120190353-2aa38180-c221-11eb-9d62-34ef723b02d8.png)
 ![image](https://user-images.githubusercontent.com/80450495/120190376-3131f900-c221-11eb-9f19-82cb4516807b.png)
-![image](https://user-images.githubusercontent.com/80450495/120190396-368f4380-c221-11eb-9310-59090728e04d.png)
 ![image](https://user-images.githubusercontent.com/80450495/120190429-4018ab80-c221-11eb-9365-1b30057a9a7a.png)
 кнопка удалить, удаляет первые добавленные элекменты.
 ![image](https://user-images.githubusercontent.com/80450495/120190450-4870e680-c221-11eb-898d-9fd892d27f4f.png)
